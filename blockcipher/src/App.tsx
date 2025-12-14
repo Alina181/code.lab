@@ -1,5 +1,5 @@
 import React from 'react';
-import BlockCipher from './components/BlockCipher';
+import BlockCipher from './components/GostBlockCipher';
 import './App.css';
 
 function App() {
